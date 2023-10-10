@@ -4,6 +4,7 @@
 Paper: [Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://arxiv.org/pdf/2102.05918.pdf)
 
 **ALIGN**: **A** **L**arge-scale **I**ma**G**e & **N**oisy Text Embedding 
+
 <span style="color:red">What</span>
 
 1. Learning pre-trained representations for visions and vision language.
